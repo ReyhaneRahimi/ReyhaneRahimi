@@ -1,10 +1,12 @@
 # ReyhaneRahimi
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reyhanerahimi&label=Profile%20views&color=0e75b6&style=flat" alt="reyhanerahimi" /> </p>
+
 <h1 align="center">Hi 👋, I'm Reyhane Rahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center"><img width="400px" height="400px" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reyhanerahimi&label=Profile%20views&color=0e75b6&style=flat" alt="reyhanerahimi" /> </p>
+<p align="center"><img width="400px" height="400px" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyhanerahimi" alt="reyhanerahimi" /></a> </p>
 
