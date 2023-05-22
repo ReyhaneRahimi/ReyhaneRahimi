@@ -29,11 +29,9 @@
  ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
  ![Jira Software](https://img.shields.io/static/v1?style=for-the-badge&message=Jira+Software&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=)
 
- <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
-
-
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanerahimi&show_icons=true&locale=en&layout=compact" alt="reyhanerahimi" /></p>
 
+<h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhanerahimi&show_icons=true&locale=en" alt="reyhanerahimi" /></p>
 
