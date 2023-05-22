@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhanerahimi&label=Profile%20views&color=0e75b6&style=flat" alt="reyhanerahimi" /> </p>
 
-<h1 align="center"> <img src="https://gifdb.com/images/file/cute-white-cat-milk-waving-hello-oen58xebbsw16o42.gif" width="50px" height="50px" /> Hi 👋, I'm Reyhane Rahimi</h1>
+<h1 align="center"> <img src="https://gifdb.com/images/file/cute-white-cat-milk-waving-hello-oen58xebbsw16o42.gif" width="70px" height="70px" /> Hi 👋, I'm Reyhane Rahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 
