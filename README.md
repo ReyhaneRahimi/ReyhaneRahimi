@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhanerahimi&label=Profile%20views&color=0e75b6&style=flat" alt="reyhanerahimi" /> </p>
 
-<h1 align="center">Hi 👋, I'm Reyhane Rahimi</h1>
+<h1 align="center"><img src="https://gifdb.com/gif/cute-quby-chan-wave-x4ez6u9oy0mm4yxx.html" width="30" /> Hi 👋, I'm Reyhane Rahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 
