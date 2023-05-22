@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reyhane Rahimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center"><img width="400px" height="400px" src="![11111](https://github.com/ReyhaneRahimi/ReyhaneRahimi/assets/121094598/b59b850d-c86b-4c58-8b6c-dd4dffcdbd96)
-" alt="reyhanerahimi" /> </P> 
+<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538649-3ec87fd6-5799-4d4d-b1d1-5ba817b11de1.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyhanerahimi&label=Profile%20views&color=0e75b6&style=flat" alt="reyhanerahimi" /> </p>
 
